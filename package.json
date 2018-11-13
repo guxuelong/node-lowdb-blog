@@ -4,7 +4,8 @@
   "description": "nodejs搭建博客系统",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "lowdb": "^1.0.0"
   },
   "devDependencies": {},
   "scripts": {
